@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Maps/TestLevel.umap",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ShipActor.uasset",
 				"C:/Users/bsssi/OneDrive/Documents/Unreal Projects/Spydroid/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/bsssi/OneDrive/Documents/Unreal Projects/Spydroid/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5A/Y514O5ZTMTF126XD41RPBJ.uasset",
 				"C:/Users/bsssi/OneDrive/Documents/Unreal Projects/Spydroid/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
