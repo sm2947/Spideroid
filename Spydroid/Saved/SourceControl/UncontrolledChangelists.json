@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Input/Actions/IA_Ghost.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/Player.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/Blueprints/PlayerGameMode.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/bsssi/OneDrive/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/BP_EnemyPatrol.uasset",
 				"C:/Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/Adhiraj.umap",
 				"C:/Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/PlanetTex.uasset",
 				"C:/Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Textures/4k_makemake_fictional.uasset",
