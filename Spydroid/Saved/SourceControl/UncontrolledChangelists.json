@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/BP_EnemyPatrol.uasset",
-				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/BP_PatrolEnemy.uasset",
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/BP_PatrolEnemy1.uasset",
 				"C:/Github/Spideroid/Spydroid/Content/ThirdPerson/Maps/Spaceworld.umap",
 				"C:/Github/Spideroid/Spydroid/Content/Maps/Adhiraj.umap",
@@ -22,6 +21,8 @@
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/Archive/BP_EnemyPatrol1.uasset",
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/Archive/BP_PatrolEnemy.uasset",
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/Archive/BP_PatrolEnemy1.uasset",
+				"C:/Github/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/Player.uasset",
+				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/BP_PatrolEnemy.uasset",
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/BP_EnemyPatrol1.uasset",
 				"C:/Github/Spideroid/Spydroid/Content/Maps/TY.umap",
 				"C:/Github/Spideroid/Spydroid/Content/Blueprints/AI/BTTask_MovetoRandomLocation.uasset",
