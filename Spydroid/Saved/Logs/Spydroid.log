@@ -2640,3 +2640,553 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.15-17.46.44:547][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.35 sec)
 [2023.10.15-17.46.44:552][ 76]AssetCheck: New page: Asset Save: ThrustersTest
 [2023.10.15-17.46.44:552][ 76]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ThrustersTest.ThrustersTest
+[2023.10.15-17.50.36:665][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:699][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:699][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:715][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:715][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:716][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:732][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:732][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:749][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:749][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:782][  9]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:782][  9]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.50.36:783][  9]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-17.51.15:248][316]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-17.51.15:248][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-17.51.15:270][316]LogViewport: Scene viewport resized to 393x473, mode Windowed.
+[2023.10.15-17.51.15:288][317]LogViewport: Scene viewport resized to 393x469, mode Windowed.
+[2023.10.15-17.51.15:315][318]LogViewport: Scene viewport resized to 393x462, mode Windowed.
+[2023.10.15-17.51.15:328][319]LogViewport: Scene viewport resized to 393x459, mode Windowed.
+[2023.10.15-17.51.15:344][320]LogViewport: Scene viewport resized to 393x455, mode Windowed.
+[2023.10.15-17.51.15:362][321]LogViewport: Scene viewport resized to 393x451, mode Windowed.
+[2023.10.15-17.51.15:378][322]LogViewport: Scene viewport resized to 393x448, mode Windowed.
+[2023.10.15-17.51.15:790][346]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-17.51.15:790][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-17.51.15:811][346]LogViewport: Scene viewport resized to 393x473, mode Windowed.
+[2023.10.15-17.51.15:838][347]LogViewport: Scene viewport resized to 393x467, mode Windowed.
+[2023.10.15-17.51.15:851][348]LogViewport: Scene viewport resized to 393x463, mode Windowed.
+[2023.10.15-17.51.15:870][349]LogViewport: Scene viewport resized to 393x458, mode Windowed.
+[2023.10.15-17.51.15:888][350]LogViewport: Scene viewport resized to 393x454, mode Windowed.
+[2023.10.15-17.51.15:902][351]LogViewport: Scene viewport resized to 393x451, mode Windowed.
+[2023.10.15-17.51.15:919][352]LogViewport: Scene viewport resized to 393x448, mode Windowed.
+[2023.10.15-17.54.14:549][987]LogViewport: Scene viewport resized to 554x382, mode Windowed.
+[2023.10.15-18.02.43:132][239]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.15-18.02.43:142][239]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.15-18.02.43:150][240]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.15-18.02.46:882][464]LogContentBrowser: Attempting asset rename: NewFolder -> HUD
+[2023.10.15-18.02.46:882][464]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.15-18.03.21:440][230]LogInterchangeEngine: [Pending] Importing
+[2023.10.15-18.03.21:440][230]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adhir/...Z-001/UI buttonUI botton-04.png]
+[2023.10.15-18.03.21:441][230]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.10.15-18.03.21:441][230]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.10.15-18.03.21:441][230]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.10.15-18.03.21:441][230]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.10.15-18.03.21:441][230]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.10.15-18.03.21:449][230]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.15-18.03.21:455][231]LogTexture: Display: Building textures: /Game/UI/HUD/UI_botton-04.UI_botton-04 (BGRA8, 963x947 x1x1x1) (Required Memory Estimate: 26.733723 MB), EncodeSpeed: Fast
+[2023.10.15-18.03.21:498][231]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:499][231]LogInterchangeEngine: [Pending] Importing
+[2023.10.15-18.03.21:499][231]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adhir/...Z-001/UI buttonUI botton-05.png]
+[2023.10.15-18.03.21:499][231]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.10.15-18.03.21:506][231]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:551][231]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.15-18.03.21:553][231]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.10.15-18.03.21:685][231]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:685][231]LogInterchangeEngine: [Pending] Importing
+[2023.10.15-18.03.21:685][231]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adhir/...Z-001/UI buttonUI botton-06.png]
+[2023.10.15-18.03.21:685][231]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.10.15-18.03.21:685][231]LogTexture: Display: Building textures: /Game/UI/HUD/UI_botton-05.UI_botton-05 (BGRA8, 963x947 x1x1x1) (Required Memory Estimate: 26.733723 MB), EncodeSpeed: Fast
+[2023.10.15-18.03.21:716][231]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.15-18.03.21:728][231]LogTexture: Display: Building textures: /Game/UI/HUD/UI_botton-06.UI_botton-06 (BGRA8, 963x947 x1x1x1) (Required Memory Estimate: 26.733723 MB), EncodeSpeed: Fast
+[2023.10.15-18.03.21:734][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:734][232]LogInterchangeEngine: [Pending] Importing
+[2023.10.15-18.03.21:734][232]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adhir/...Z-001/UI buttonUI botton-07.png]
+[2023.10.15-18.03.21:735][232]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.10.15-18.03.21:790][232]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.15-18.03.21:791][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:834][232]LogTexture: Display: Building textures: /Game/UI/HUD/UI_botton-07.UI_botton-07 (BGRA8, 963x947 x1x1x1) (Required Memory Estimate: 26.733723 MB), EncodeSpeed: Fast
+[2023.10.15-18.03.21:843][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:881][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:881][232]LogInterchangeEngine: [Pending] Importing
+[2023.10.15-18.03.21:881][232]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adhir/...Z-001/UI buttonUI botton-08.png]
+[2023.10.15-18.03.21:882][232]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.10.15-18.03.21:888][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.21:933][232]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.15-18.03.21:935][232]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.10.15-18.03.22:018][232]LogTexture: Display: Building textures: /Game/UI/HUD/UI_botton-08.UI_botton-08 (BGRA8, 963x947 x1x1x1) (Required Memory Estimate: 26.733723 MB), EncodeSpeed: Fast
+[2023.10.15-18.03.22:018][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.22:018][232]LogInterchangeEngine: [Pending] Importing
+[2023.10.15-18.03.22:018][232]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adhir/...Z-001/UI buttonUI botton-09.png]
+[2023.10.15-18.03.22:068][232]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.15-18.03.22:072][232]LogTexture: Display: Building textures: /Game/UI/HUD/UI_botton-09.UI_botton-09 (BGRA8, 963x947 x1x1x1) (Required Memory Estimate: 26.733723 MB), EncodeSpeed: Fast
+[2023.10.15-18.03.22:105][232]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.22:224][233]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.22:267][233]LogInterchangeEngine: [Success] Import Done
+[2023.10.15-18.03.34:965][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.15-18.03.36:114][847]LogSlate: Window 'Save Content' being destroyed
+[2023.10.15-18.03.36:121][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.03.36:234][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/UI_botton-04" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-04.uasset" SILENT=true
+[2023.10.15-18.03.36:246][847]LogSavePackage: Moving output files for package: /Game/UI/HUD/UI_botton-04
+[2023.10.15-18.03.36:246][847]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/UI_botton-0431010C7A464CBD85F3A8DA9B4A06B1E3.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-04.uasset'
+[2023.10.15-18.03.36:249][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/UI_botton-05" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-05.uasset" SILENT=true
+[2023.10.15-18.03.36:259][847]LogSavePackage: Moving output files for package: /Game/UI/HUD/UI_botton-05
+[2023.10.15-18.03.36:259][847]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/UI_botton-05A977214C4646C0813FA69B881F5B0356.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-05.uasset'
+[2023.10.15-18.03.36:261][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/UI_botton-06" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-06.uasset" SILENT=true
+[2023.10.15-18.03.36:270][847]LogSavePackage: Moving output files for package: /Game/UI/HUD/UI_botton-06
+[2023.10.15-18.03.36:271][847]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/UI_botton-06C478020F40B771614EF065B0BFAAF5B3.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-06.uasset'
+[2023.10.15-18.03.36:273][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/UI_botton-07" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-07.uasset" SILENT=true
+[2023.10.15-18.03.36:282][847]LogSavePackage: Moving output files for package: /Game/UI/HUD/UI_botton-07
+[2023.10.15-18.03.36:282][847]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/UI_botton-076B22378F4AD932418496068BEBC160FC.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-07.uasset'
+[2023.10.15-18.03.36:285][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/UI_botton-08" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-08.uasset" SILENT=true
+[2023.10.15-18.03.36:293][847]LogSavePackage: Moving output files for package: /Game/UI/HUD/UI_botton-08
+[2023.10.15-18.03.36:293][847]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/UI_botton-083DB9118F4927E59098A1E6B989589AA8.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-08.uasset'
+[2023.10.15-18.03.36:296][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/UI_botton-09" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-09.uasset" SILENT=true
+[2023.10.15-18.03.36:305][847]LogSavePackage: Moving output files for package: /Game/UI/HUD/UI_botton-09
+[2023.10.15-18.03.36:305][847]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/UI_botton-09745DC4284653570F60FE11A4BFD0D848.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/UI_botton-09.uasset'
+[2023.10.15-18.03.36:313][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 4.54 sec)
+[2023.10.15-18.03.36:318][847]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.15-18.03.36:318][847]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/HUD/UI_botton-04.UI_botton-04
+[2023.10.15-18.03.36:318][847]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/HUD/UI_botton-05.UI_botton-05
+[2023.10.15-18.03.36:318][847]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/HUD/UI_botton-06.UI_botton-06
+[2023.10.15-18.03.36:318][847]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/HUD/UI_botton-07.UI_botton-07
+[2023.10.15-18.03.36:318][847]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/HUD/UI_botton-08.UI_botton-08
+[2023.10.15-18.03.36:318][847]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/HUD/UI_botton-09.UI_botton-09
+[2023.10.15-18.03.38:833][998]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-04.UI_botton-04
+[2023.10.15-18.03.38:941][998]LogViewport: Scene viewport resized to 1337x703, mode Windowed.
+[2023.10.15-18.03.38:977][999]LogViewport: Scene viewport resized to 1337x689, mode Windowed.
+[2023.10.15-18.03.40:897][114]LogSlate: Window 'UI_botton-04' being destroyed
+[2023.10.15-18.03.42:679][219]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-05.UI_botton-05
+[2023.10.15-18.03.42:776][219]LogViewport: Scene viewport resized to 1339x711, mode Windowed.
+[2023.10.15-18.03.42:805][220]LogViewport: Scene viewport resized to 1339x700, mode Windowed.
+[2023.10.15-18.03.42:828][221]LogViewport: Scene viewport resized to 1339x691, mode Windowed.
+[2023.10.15-18.03.46:464][418]LogSlate: Window 'UI_botton-05' being destroyed
+[2023.10.15-18.03.48:241][523]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-06.UI_botton-06
+[2023.10.15-18.03.48:340][523]LogViewport: Scene viewport resized to 1340x712, mode Windowed.
+[2023.10.15-18.03.48:367][524]LogViewport: Scene viewport resized to 1340x700, mode Windowed.
+[2023.10.15-18.03.48:393][525]LogViewport: Scene viewport resized to 1340x693, mode Windowed.
+[2023.10.15-18.03.49:990][621]LogSlate: Window 'UI_botton-06' being destroyed
+[2023.10.15-18.03.52:850][791]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-08.UI_botton-08
+[2023.10.15-18.03.52:932][791]LogViewport: Scene viewport resized to 1342x722, mode Windowed.
+[2023.10.15-18.03.52:960][792]LogViewport: Scene viewport resized to 1342x710, mode Windowed.
+[2023.10.15-18.03.52:987][793]LogViewport: Scene viewport resized to 1342x695, mode Windowed.
+[2023.10.15-18.03.54:484][883]LogSlate: Window 'UI_botton-08' being destroyed
+[2023.10.15-18.03.56:469][  0]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-09.UI_botton-09
+[2023.10.15-18.03.56:564][  0]LogViewport: Scene viewport resized to 1343x717, mode Windowed.
+[2023.10.15-18.03.56:594][  1]LogViewport: Scene viewport resized to 1343x705, mode Windowed.
+[2023.10.15-18.03.56:619][  2]LogViewport: Scene viewport resized to 1343x697, mode Windowed.
+[2023.10.15-18.03.58:216][ 98]LogSlate: Window 'UI_botton-09' being destroyed
+[2023.10.15-18.04.01:391][287]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-06.UI_botton-06
+[2023.10.15-18.04.01:476][287]LogViewport: Scene viewport resized to 1345x725, mode Windowed.
+[2023.10.15-18.04.01:503][288]LogViewport: Scene viewport resized to 1345x713, mode Windowed.
+[2023.10.15-18.04.01:528][289]LogViewport: Scene viewport resized to 1345x700, mode Windowed.
+[2023.10.15-18.04.01:543][290]LogViewport: Scene viewport resized to 1345x699, mode Windowed.
+[2023.10.15-18.04.05:391][521]LogSlate: Window 'UI_botton-06' being destroyed
+[2023.10.15-18.04.13:939][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.04.25:572][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.04.39:575][264]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.15-18.04.39:584][264]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.15-18.04.39:588][264]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.15-18.04.39:612][265]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.15-18.05.02:868][650]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_PlayerHUD
+[2023.10.15-18.05.02:873][650]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.15-18.05.04:417][743]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.05.04:417][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.05.04:417][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.05.04:422][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.05.04:422][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.05.04:427][743]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.15-18.05.04:562][743]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.10.15-18.05.07:073][889]LogSlate: Window 'BP_PlayerHUD' being destroyed
+[2023.10.15-18.05.08:213][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.05.08:344][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.05.08:346][956]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.05.08:346][956]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUD8BC41E62467D7F9A63F08D96968AA491.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.05.08:354][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 4.68 sec)
+[2023.10.15-18.05.08:358][956]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.05.08:358][956]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.05.37:530][695]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-06.UI_botton-06
+[2023.10.15-18.05.37:561][695]LogViewport: Scene viewport resized to 1419x1013, mode Windowed.
+[2023.10.15-18.05.37:588][696]LogViewport: Scene viewport resized to 1419x1002, mode Windowed.
+[2023.10.15-18.05.37:605][697]LogViewport: Scene viewport resized to 1419x992, mode Windowed.
+[2023.10.15-18.05.37:621][698]LogViewport: Scene viewport resized to 1419x985, mode Windowed.
+[2023.10.15-18.05.37:636][699]LogViewport: Scene viewport resized to 1419x977, mode Windowed.
+[2023.10.15-18.05.37:653][700]LogViewport: Scene viewport resized to 1419x969, mode Windowed.
+[2023.10.15-18.05.37:670][701]LogViewport: Scene viewport resized to 1419x963, mode Windowed.
+[2023.10.15-18.05.53:721][657]BlueprintLog: New page: Compile BP_PlayerHUD
+[2023.10.15-18.05.53:755][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.15-18.05.54:130][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.05.54:224][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.05.54:227][679]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.05.54:228][679]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUD5B60948D45431AD24DED0EA396C12617.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.05.54:234][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 4.79 sec)
+[2023.10.15-18.05.54:238][679]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.05.54:238][679]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.06.19:342][175]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-08.UI_botton-08
+[2023.10.15-18.06.19:372][175]LogViewport: Scene viewport resized to 1419x1014, mode Windowed.
+[2023.10.15-18.06.19:397][176]LogViewport: Scene viewport resized to 1419x1004, mode Windowed.
+[2023.10.15-18.06.19:412][177]LogViewport: Scene viewport resized to 1419x995, mode Windowed.
+[2023.10.15-18.06.19:429][178]LogViewport: Scene viewport resized to 1419x987, mode Windowed.
+[2023.10.15-18.06.19:445][179]LogViewport: Scene viewport resized to 1419x979, mode Windowed.
+[2023.10.15-18.06.19:462][180]LogViewport: Scene viewport resized to 1419x971, mode Windowed.
+[2023.10.15-18.06.19:478][181]LogViewport: Scene viewport resized to 1419x963, mode Windowed.
+[2023.10.15-18.06.38:812][334]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-05.UI_botton-05
+[2023.10.15-18.06.38:843][334]LogViewport: Scene viewport resized to 1419x1014, mode Windowed.
+[2023.10.15-18.06.38:867][335]LogViewport: Scene viewport resized to 1419x1004, mode Windowed.
+[2023.10.15-18.06.38:881][336]LogViewport: Scene viewport resized to 1419x995, mode Windowed.
+[2023.10.15-18.06.38:898][337]LogViewport: Scene viewport resized to 1419x987, mode Windowed.
+[2023.10.15-18.06.38:914][338]LogViewport: Scene viewport resized to 1419x979, mode Windowed.
+[2023.10.15-18.06.38:931][339]LogViewport: Scene viewport resized to 1419x971, mode Windowed.
+[2023.10.15-18.06.38:947][340]LogViewport: Scene viewport resized to 1419x963, mode Windowed.
+[2023.10.15-18.07.10:802][ 54]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-04.UI_botton-04
+[2023.10.15-18.07.10:835][ 54]LogViewport: Scene viewport resized to 1419x1012, mode Windowed.
+[2023.10.15-18.07.10:861][ 55]LogViewport: Scene viewport resized to 1419x1001, mode Windowed.
+[2023.10.15-18.07.10:878][ 56]LogViewport: Scene viewport resized to 1419x991, mode Windowed.
+[2023.10.15-18.07.10:894][ 57]LogViewport: Scene viewport resized to 1419x984, mode Windowed.
+[2023.10.15-18.07.10:911][ 58]LogViewport: Scene viewport resized to 1419x975, mode Windowed.
+[2023.10.15-18.07.10:927][ 59]LogViewport: Scene viewport resized to 1419x968, mode Windowed.
+[2023.10.15-18.07.10:944][ 60]LogViewport: Scene viewport resized to 1419x963, mode Windowed.
+[2023.10.15-18.07.32:658][829]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.07.32:658][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.07.32:663][829]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.07.32:663][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.07.32:681][829]LogViewport: Scene viewport resized to 393x470, mode Windowed.
+[2023.10.15-18.07.32:699][830]LogViewport: Scene viewport resized to 393x465, mode Windowed.
+[2023.10.15-18.07.32:742][831]LogViewport: Scene viewport resized to 393x455, mode Windowed.
+[2023.10.15-18.07.32:768][832]LogViewport: Scene viewport resized to 393x448, mode Windowed.
+[2023.10.15-18.07.35:524][995]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.07.35:524][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.07.35:536][995]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.07.35:536][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.07.35:571][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.10.15-18.07.35:577][995]LogViewport: Scene viewport resized to 1405x992, mode Windowed.
+[2023.10.15-18.07.35:587][996]LogViewport: Scene viewport resized to 1405x987, mode Windowed.
+[2023.10.15-18.07.35:619][997]LogViewport: Scene viewport resized to 1405x971, mode Windowed.
+[2023.10.15-18.07.35:644][998]LogViewport: Scene viewport resized to 1405x968, mode Windowed.
+[2023.10.15-18.09.02:991][718]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.09.02:991][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.09.02:991][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.09.02:997][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.09.02:997][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.09.48:106][257]LogEditorTransaction: Undo Resize Widget
+[2023.10.15-18.10.00:661][952]BlueprintLog: New page: Compile BP_PlayerHUD
+[2023.10.15-18.10.00:682][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.15-18.10.01:156][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.10.01:244][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.10.01:246][980]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.10.01:247][980]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUD0BEF5CBA47B7D7266E640ABC440670BD.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.10.01:256][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.89 sec)
+[2023.10.15-18.10.01:261][980]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.10.01:261][980]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.10.10:056][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:056][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:056][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:057][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:057][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:057][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:057][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:057][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:058][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:058][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:058][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:058][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:058][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.10:058][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.10.18:717][ 19]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/UI_botton-05.UI_botton-05
+[2023.10.15-18.10.18:747][ 19]LogViewport: Scene viewport resized to 1419x1014, mode Windowed.
+[2023.10.15-18.10.18:771][ 20]LogViewport: Scene viewport resized to 1419x1003, mode Windowed.
+[2023.10.15-18.10.18:788][ 21]LogViewport: Scene viewport resized to 1419x994, mode Windowed.
+[2023.10.15-18.10.18:803][ 22]LogViewport: Scene viewport resized to 1419x986, mode Windowed.
+[2023.10.15-18.10.18:820][ 23]LogViewport: Scene viewport resized to 1419x978, mode Windowed.
+[2023.10.15-18.10.18:837][ 24]LogViewport: Scene viewport resized to 1419x970, mode Windowed.
+[2023.10.15-18.10.18:854][ 25]LogViewport: Scene viewport resized to 1419x963, mode Windowed.
+[2023.10.15-18.11.20:777][496]BlueprintLog: New page: Compile BP_PlayerHUD
+[2023.10.15-18.11.20:800][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.15-18.11.21:291][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.11.21:378][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.11.21:381][525]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.11.21:382][525]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUD1840EDA54F490AF7E3F137B22EC692F3.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.11.21:387][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 4.98 sec)
+[2023.10.15-18.11.21:392][525]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.11.21:392][525]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.11.57:794][704]BlueprintLog: New page: Compile BP_PlayerHUD
+[2023.10.15-18.11.57:815][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.15-18.11.58:613][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.11.58:700][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.11.58:702][749]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.11.58:703][749]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUDD20FF1AD4AA4CA7CFBA1CF96657821C2.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.11.58:710][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 5.08 sec)
+[2023.10.15-18.11.58:714][749]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.11.58:714][749]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.13.47:911][246]BlueprintLog: New page: Compile BP_PlayerHUD
+[2023.10.15-18.13.47:931][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.15-18.13.48:398][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.13.48:489][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.13.48:491][271]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.13.48:491][271]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUDC65C63C041531408555053958BE508D6.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.13.48:497][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.18 sec)
+[2023.10.15-18.13.48:502][271]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.13.48:502][271]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.15.55:903][246]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.15-18.15.55:903][246]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.15-18.16.43:163][851]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.16.43:163][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.16.43:169][851]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.16.43:169][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.16.43:188][851]LogViewport: Scene viewport resized to 1405x1011, mode Windowed.
+[2023.10.15-18.16.43:198][852]LogViewport: Scene viewport resized to 1405x1005, mode Windowed.
+[2023.10.15-18.16.43:254][853]LogViewport: Scene viewport resized to 1405x978, mode Windowed.
+[2023.10.15-18.16.43:436][854]LogViewport: Scene viewport resized to 1405x968, mode Windowed.
+[2023.10.15-18.16.45:848][998]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.15-18.17.01:571][940]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Spidership.Spidership
+[2023.10.15-18.17.01:571][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.17.01:571][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.17.28:874][500]BlueprintLog: New page: Compile Spidership
+[2023.10.15-18.17.28:884][500]LogBlueprint: Error: [AssetLog] C:\Users\adhir\Documents\GitHub\Spideroid\Spydroid\Content\ThirdPerson\Blueprints\Spidership.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.10.15-18.17.28:933][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.10.15-18.17.42:422][301]BlueprintLog: New page: Compile Spidership
+[2023.10.15-18.17.42:479][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.15-18.17.43:429][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.17.43:512][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.17.43:594][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Spidership" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/Spidership.uasset" SILENT=true
+[2023.10.15-18.17.43:614][354]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Spidership
+[2023.10.15-18.17.43:615][354]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/SpidershipCD325F624667F459B7903FA4E7B78B79.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/Spidership.uasset'
+[2023.10.15-18.17.43:625][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 5.38 sec)
+[2023.10.15-18.17.43:630][354]AssetCheck: New page: Asset Save: Spidership
+[2023.10.15-18.17.43:630][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Spidership.Spidership
+[2023.10.15-18.17.44:105][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.46:106][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.17.46:195][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.15-18.17.46:203][496]LogSavePackage: Moving output files for package: /Game/Maps/ThrustersTest
+[2023.10.15-18.17.46:203][496]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/ThrustersTest1FB2D9B14BE090F51D5BE5B8B6D14194.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/ThrustersTest.umap'
+[2023.10.15-18.17.46:208][496]LogFileHelpers: Saving map 'ThrustersTest' took 0.030
+[2023.10.15-18.17.46:216][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 5.49 sec)
+[2023.10.15-18.17.46:221][496]AssetCheck: New page: Asset Save: ThrustersTest
+[2023.10.15-18.17.46:221][496]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ThrustersTest.ThrustersTest
+[2023.10.15-18.17.54:044][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.15-18.17.54:139][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.17.54:141][964]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Adhiraj.Adhiraj
+[2023.10.15-18.17.54:141][964]Cmd: MAP LOAD FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/Adhiraj.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.15-18.17.54:141][964]LightingResults: New page: Lighting Build
+[2023.10.15-18.17.54:141][964]LoadErrors: New page: Loading map: Adhiraj.umap
+[2023.10.15-18.17.54:142][964]LogWorld: UWorld::CleanupWorld for ThrustersTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.17.54:142][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.17.54:143][964]MapCheck: New page: Map Check
+[2023.10.15-18.17.54:143][964]LightingResults: New page: Lighting Build
+[2023.10.15-18.17.54:155][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.15-18.17.54:158][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.15-18.17.54:160][964]LogWorld: UWorld::CleanupWorld for Adhiraj, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.17.54:160][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.17.54:174][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.15-18.17.54:186][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.15-18.17.54:193][964]LogAudio: Display: Audio Device (ID: 1) registered with world 'Adhiraj'.
+[2023.10.15-18.17.54:194][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.17.54:194][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.17.54:194][964]LogAIModule: Creating AISystem for world Adhiraj
+[2023.10.15-18.17.54:208][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.15-18.17.54:222][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.15-18.17.54:226][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.15-18.17.54:226][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2023.10.15-18.17.54:226][964]LogFileHelpers: Loading map 'Adhiraj' took 0.086
+[2023.10.15-18.17.54:243][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:243][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:243][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:243][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:243][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:243][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:245][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:245][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:245][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:245][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:246][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:246][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:246][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:246][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:246][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.54:247][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:051][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.15-18.17.55:058][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.15-18.17.55:058][ 10]PIE: New page: PIE session: Adhiraj (15-Oct-2023, 10:17:55 am)
+[2023.10.15-18.17.55:058][ 10]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Adhiraj
+[2023.10.15-18.17.55:061][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2023.10.15-18.17.55:061][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Adhiraj.Adhiraj to /Game/Maps/UEDPIE_0_Adhiraj.Adhiraj (0.002837s)
+[2023.10.15-18.17.55:061][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.17.55:061][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.17.55:061][ 10]LogAIModule: Creating AISystem for world Adhiraj
+[2023.10.15-18.17.55:061][ 10]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2023.10.15-18.17.55:074][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.15-18.17.55:076][ 10]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.15-18.17.55:076][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.15-18.17.55:076][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.15-18.17.55:076][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.15-18.17.55:076][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.15-18.17.55:076][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.15-18.17.55:078][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.15-18.17.55:087][ 10]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MAJOR IV)
+[2023.10.15-18.17.55:087][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.15-18.17.55:087][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.15-18.17.55:087][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.15-18.17.55:087][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.15-18.17.55:087][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.15-18.17.55:089][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.15-18.17.55:089][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.15-18.17.55:089][ 10]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.15-18.17.55:089][ 10]LogAudio: Display: Audio Device (ID: 13) registered with world 'Adhiraj'.
+[2023.10.15-18.17.55:089][ 10]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.15-18.17.55:091][ 10]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.15-18.17.55:092][ 10]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Adhiraj.Adhiraj up for play (max tick rate 60) at 2023.10.15-14.17.55
+[2023.10.15-18.17.55:093][ 10]LogWorld: Bringing up level for play took: 0.001571
+[2023.10.15-18.17.55:094][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.10.15-18.17.55:096][ 10]PIE: Server logged in
+[2023.10.15-18.17.55:096][ 10]PIE: Play in editor total start time 0.04 seconds.
+[2023.10.15-18.17.55:110][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:110][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:110][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:111][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:112][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:112][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:112][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:112][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:112][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.17.55:114][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:444][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.15-18.18.00:444][326]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Adhiraj
+[2023.10.15-18.18.00:445][326]LogWorld: UWorld::CleanupWorld for Adhiraj, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.18.00:445][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.18.00:447][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.15-18.18.00:452][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.18.00:465][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.15-18.18.00:465][326]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.15-18.18.00:465][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.15-18.18.00:467][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.15-18.18.00:476][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.15-18.18.00:495][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:495][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:495][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:496][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:496][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:496][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:496][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:497][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:497][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:497][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:497][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:497][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:498][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:498][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:498][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:498][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.00:517][328]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.10.15-18.18.15:342][215]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.18.15:342][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.18.15:342][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.18.15:358][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.18.15:358][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.18.52:638][374]BlueprintLog: New page: Compile BP_PlayerHUD
+[2023.10.15-18.18.52:680][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.15-18.18.53:335][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.18.53:437][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.15-18.18.53:439][412]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.15-18.18.53:439][412]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/BP_PlayerHUDC4531A8B40CEE7E78803FFBB311161B0.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.15-18.18.53:445][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 5.60 sec)
+[2023.10.15-18.18.53:450][412]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.15-18.18.53:450][412]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
+[2023.10.15-18.18.54:534][474]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.15-18.18.54:540][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.15-18.18.54:540][474]PIE: New page: PIE session: Adhiraj (15-Oct-2023, 10:18:54 am)
+[2023.10.15-18.18.54:571][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Adhiraj
+[2023.10.15-18.18.54:575][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003319s)
+[2023.10.15-18.18.54:575][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Adhiraj.Adhiraj to /Game/Maps/UEDPIE_0_Adhiraj.Adhiraj (0.003357s)
+[2023.10.15-18.18.54:575][474]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.18.54:575][474]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.18.54:575][474]LogAIModule: Creating AISystem for world Adhiraj
+[2023.10.15-18.18.54:575][474]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.10.15-18.18.54:592][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.10.15-18.18.54:594][474]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.15-18.18.54:594][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.15-18.18.54:594][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.15-18.18.54:594][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.15-18.18.54:594][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.15-18.18.54:594][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.15-18.18.54:596][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.15-18.18.54:604][474]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MAJOR IV)
+[2023.10.15-18.18.54:604][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.15-18.18.54:604][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.15-18.18.54:604][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.15-18.18.54:605][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.15-18.18.54:605][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.15-18.18.54:607][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.15-18.18.54:607][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.15-18.18.54:607][474]LogInit: FAudioDevice initialized with ID 14.
+[2023.10.15-18.18.54:607][474]LogAudio: Display: Audio Device (ID: 14) registered with world 'Adhiraj'.
+[2023.10.15-18.18.54:607][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.15-18.18.54:608][474]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.15-18.18.54:610][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Adhiraj.Adhiraj up for play (max tick rate 60) at 2023.10.15-14.18.54
+[2023.10.15-18.18.54:611][474]LogWorld: Bringing up level for play took: 0.001676
+[2023.10.15-18.18.54:612][474]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.10.15-18.18.54:614][474]PIE: Server logged in
+[2023.10.15-18.18.54:615][474]PIE: Play in editor total start time 0.075 seconds.
+[2023.10.15-18.18.54:628][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:628][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:628][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:628][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:628][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:630][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:630][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:630][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:630][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:631][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:631][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:631][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:631][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:631][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:631][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.54:632][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:684][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.15-18.18.59:684][773]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Adhiraj
+[2023.10.15-18.18.59:684][773]LogWorld: UWorld::CleanupWorld for Adhiraj, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.18.59:685][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.18.59:687][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.15-18.18.59:691][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.18.59:706][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.15-18.18.59:706][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.15-18.18.59:706][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.15-18.18.59:707][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.15-18.18.59:710][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.15-18.18.59:714][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.15-18.18.59:734][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:734][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:734][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:738][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:738][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:738][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:738][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.18.59:757][775]LogPlayLevel: Display: Destroying online subsystem :Context_36
