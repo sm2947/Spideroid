@@ -3413,3 +3413,398 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.15-18.21.04:073][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.15-18.21.04:074][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.15-18.21.19:413][ 95]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.22.25:277][656]LogContentBrowser: Attempting asset rename: Materials -> Materials
+[2023.10.15-18.22.35:791][284]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons.NS_Thruster_Cons
+[2023.10.15-18.22.35:918][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.22.35:918][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.22.35:937][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.22.35:937][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.22.35:980][284]LogViewport: Scene viewport resized to 393x448, mode Windowed.
+[2023.10.15-18.22.36:289][296]42498_NS_Thruster_Cons_MessageLog: System successfully compiled.
+[2023.10.15-18.22.40:375][539]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.22.40:375][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.22.40:383][539]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.22.40:383][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.22.40:413][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.15-18.22.43:441][720]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.22.43:441][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.22.43:446][720]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.22.43:446][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.22.47:141][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.15-18.22.48:727][938]LogSlate: Window 'Save Content' being destroyed
+[2023.10.15-18.22.48:736][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.22.48:933][938]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons
+[2023.10.15-18.22.48:934][938]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons7FFD149A4EF6792586F5B3A54249371C.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons.uasset'
+[2023.10.15-18.22.48:938][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 6.09 sec)
+[2023.10.15-18.22.48:944][938]AssetCheck: New page: Asset Save: NS_Thruster_Cons
+[2023.10.15-18.22.48:944][938]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons.NS_Thruster_Cons
+[2023.10.15-18.22.52:073][108]LogContentBrowser: Deferred new asset file creation: NS_Thruster_Cons1
+[2023.10.15-18.22.52:081][108]LogContentBrowser: Creating deferred item: NS_Thruster_Cons1
+[2023.10.15-18.22.52:092][109]LogContentBrowser: Renaming the item being created (Deferred Item: NS_Thruster_Cons1).
+[2023.10.15-18.23.00:071][587]LogContentBrowser: Attempting asset rename: NS_Thruster_Cons1 -> NS_Thruster_Cons_Small
+[2023.10.15-18.23.00:101][587]LogContentBrowser: End creating deferred item NS_Thruster_Cons1
+[2023.10.15-18.23.01:542][674]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.23.01:666][674]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.23.01:666][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.23.01:751][674]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.23.01:751][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.23.01:794][674]LogViewport: Scene viewport resized to 373x319, mode Windowed.
+[2023.10.15-18.23.02:103][686]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.23.03:992][794]LogViewport: Scene viewport resized to 372x334, mode Windowed.
+[2023.10.15-18.23.04:059][796]LogViewport: Scene viewport resized to 181x111, mode Windowed.
+[2023.10.15-18.23.04:096][797]LogViewport: Scene viewport resized to 159x86, mode Windowed.
+[2023.10.15-18.23.04:327][811]LogViewport: Scene viewport resized to 393x448, mode Windowed.
+[2023.10.15-18.23.04:672][832]LogSlate: Window 'NS_Thruster_Cons_Small' being destroyed
+[2023.10.15-18.23.04:680][832]LogViewport: Scene viewport resized to 393x480, mode Windowed.
+[2023.10.15-18.23.04:697][833]LogViewport: Scene viewport resized to 393x475, mode Windowed.
+[2023.10.15-18.23.04:779][834]LogViewport: Scene viewport resized to 393x456, mode Windowed.
+[2023.10.15-18.23.04:794][835]LogViewport: Scene viewport resized to 393x451, mode Windowed.
+[2023.10.15-18.23.04:812][836]LogViewport: Scene viewport resized to 393x448, mode Windowed.
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: ================================================
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Total job queries 304, among them cache hits 57 (18.75%)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Tracking 247 distinct input hashes that result in 117 distinct outputs (47.37%)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: RAM used: 5.81 MiB of 1.60 GiB budget. Usage: 0.35%
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Shaders Compiled: 215
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Jobs assigned 215, completed 215 (100.00%)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Average time worker was idle: 211.67 s
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.42 s
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.77 s
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.79
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.02 s
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Jobs were issued in 146 batches (only local compilation was used), average 1.47 jobs/batch
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Average processing rate: 16.52 jobs/sec
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Total thread time: 61.249 s
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Total thread preprocess time: 2.157 s
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Percentage time preprocessing: 3.52%
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Effective parallelization: 4.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 0.38 sec, max 0.41 sec, min 0.36 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 0.37 sec, max 0.45 sec, min 0.34 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 0.37 sec, max 0.43 sec, min 0.35 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.74% of total time (compiled   25 times, average 0.31 sec, max 0.45 sec, min 0.26 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.26% of total time (compiled   25 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.44% of total time (compiled   18 times, average 0.32 sec, max 0.42 sec, min 0.26 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.43% of total time (compiled   18 times, average 0.29 sec, max 0.40 sec, min 0.23 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.28% of total time (compiled   18 times, average 0.25 sec, max 0.28 sec, min 0.19 sec)
+[2023.10.15-18.23.11:041][175]LogShaderCompilers: Display: ================================================
+[2023.10.15-18.23.11:135][175]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.673362 sec (time since issued), 5.172288 sec (combined shader worker time).
+[2023.10.15-18.23.11:143][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.23.11:333][175]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.23.11:333][175]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_Small57C2420A4D4E17F5CD3573998CB2CE84.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.23.11:341][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 6.29 sec)
+[2023.10.15-18.23.12:124][175]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.783630 sec (time since issued), 6.017635 sec (combined shader worker time).
+[2023.10.15-18.23.12:138][175]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.23.12:138][175]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.23.15:407][360]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.383735 sec (time since issued), 0.709204 sec (combined shader worker time).
+[2023.10.15-18.23.15:610][371]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.23.17:605][477]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.349776 sec (time since issued), 0.645348 sec (combined shader worker time).
+[2023.10.15-18.23.17:808][489]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.23.20:673][659]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.23.21:474][685]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.367692 sec (time since issued), 0.632500 sec (combined shader worker time).
+[2023.10.15-18.23.21:482][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.23.21:664][685]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.23.21:665][685]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_Small90F512734CD68BC70522068FA938D939.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.23.21:675][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 6.48 sec)
+[2023.10.15-18.23.21:705][685]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.23.21:705][685]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.23.32:452][322]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.405807 sec (time since issued), 0.643978 sec (combined shader worker time).
+[2023.10.15-18.23.32:615][331]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.23.34:630][446]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.24.08:605][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.24.08:731][477]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.24.08:732][477]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_Small4A5AD4B34EC69C83FEE22793AB7ECB6B.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.24.08:740][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 6.62 sec)
+[2023.10.15-18.24.08:770][477]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.24.08:771][477]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.24.36:650][114]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.450947 sec (time since issued), 1.093892 sec (combined shader worker time).
+[2023.10.15-18.24.36:658][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.24.36:830][114]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.24.36:830][114]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_Small19DD2125463FD421295A73B28EB8F377.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.24.36:837][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 6.79 sec)
+[2023.10.15-18.24.36:868][114]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.24.36:868][114]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.24.37:622][156]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.24.38:375][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.24.38:501][199]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.24.38:501][199]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_Small61C6967D4029BDE43380DFAF02CD5EE9.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.24.38:509][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.93 sec)
+[2023.10.15-18.24.38:539][199]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.24.38:539][199]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.24.47:827][751]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.24.49:132][809]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.338961 sec (time since issued), 0.309503 sec (combined shader worker time).
+[2023.10.15-18.24.49:141][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.24.49:313][809]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.24.49:313][809]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_Small8A46D4B04079D59E715BC6BCA41B0449.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.24.49:320][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 7.11 sec)
+[2023.10.15-18.24.49:352][809]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.24.49:352][809]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.24.58:280][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.15-18.24.58:365][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.24.58:367][341]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/ThrustersTest.ThrustersTest
+[2023.10.15-18.24.58:367][341]Cmd: MAP LOAD FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/ThrustersTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.15-18.24.58:367][341]LightingResults: New page: Lighting Build
+[2023.10.15-18.24.58:367][341]LoadErrors: New page: Loading map: ThrustersTest.umap
+[2023.10.15-18.24.58:369][341]LogWorld: UWorld::CleanupWorld for Adhiraj, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.24.58:369][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.24.58:369][341]MapCheck: New page: Map Check
+[2023.10.15-18.24.58:369][341]LightingResults: New page: Lighting Build
+[2023.10.15-18.24.58:382][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.15-18.24.58:386][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.15-18.24.58:388][341]LogWorld: UWorld::CleanupWorld for ThrustersTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.24.58:388][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.24.58:402][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.15-18.24.58:415][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.15-18.24.58:418][341]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThrustersTest'.
+[2023.10.15-18.24.58:418][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.24.58:418][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.24.58:419][341]LogAIModule: Creating AISystem for world ThrustersTest
+[2023.10.15-18.24.58:433][341]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.15-18.24.58:447][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.15-18.24.58:452][341]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.15-18.24.58:452][341]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2023.10.15-18.24.58:452][341]LogFileHelpers: Loading map 'ThrustersTest' took 0.085
+[2023.10.15-18.24.58:472][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:472][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:473][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:473][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:473][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:474][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:474][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:474][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:474][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:474][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:475][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:475][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:475][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.24.58:475][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.25.43:387][ 24]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.25.43:398][ 24]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.25.43:399][ 24]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small as actor: NiagaraActor /Game/Maps/ThrustersTest.ThrustersTest:PersistentLevel.NiagaraActor_0
+[2023.10.15-18.25.43:400][ 24]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small as actor: NiagaraActor /Game/Maps/ThrustersTest.ThrustersTest:PersistentLevel.NiagaraActor_0
+[2023.10.15-18.25.44:004][ 60]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.25.44:004][ 60]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.25.44:005][ 60]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small as actor: NiagaraActor /Game/Maps/ThrustersTest.ThrustersTest:PersistentLevel.NiagaraActor_2
+[2023.10.15-18.25.44:006][ 60]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small as actor: NiagaraActor /Game/Maps/ThrustersTest.ThrustersTest:PersistentLevel.NiagaraActor_2
+[2023.10.15-18.25.44:019][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.26:302][587]LogViewport: Scene viewport resized to 554x382, mode Windowed.
+[2023.10.15-18.26.27:812][673]Cmd: DELETE
+[2023.10.15-18.26.27:813][673]Cmd: ACTOR DELETE
+[2023.10.15-18.26.27:814][673]LogEditorActor: Deleted Actor: Spidership_C
+[2023.10.15-18.26.27:831][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.15-18.26.27:837][673]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.10.15-18.26.29:113][750]Cmd: TRANSACTION UNDO
+[2023.10.15-18.26.29:113][750]LogEditorTransaction: Undo Delete Elements
+[2023.10.15-18.26.29:352][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:352][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:352][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:353][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:353][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:353][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:353][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:354][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:354][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:354][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:354][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:354][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:355][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:355][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:355][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.26.29:390][751]LogViewport: Scene viewport resized to 554x382, mode Windowed.
+[2023.10.15-18.26.29:653][760]101672_NS_Thruster_Cons_Small_MessageLog: System successfully compiled.
+[2023.10.15-18.26.33:246][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.26.33:339][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.15-18.26.33:346][972]LogSavePackage: Moving output files for package: /Game/Maps/ThrustersTest
+[2023.10.15-18.26.33:346][972]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/ThrustersTest10959BEB4F7B7B4B277EA6A879DCC2A4.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/ThrustersTest.umap'
+[2023.10.15-18.26.33:353][972]LogFileHelpers: Saving map 'ThrustersTest' took 0.033
+[2023.10.15-18.26.33:359][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 7.22 sec)
+[2023.10.15-18.26.33:364][972]AssetCheck: New page: Asset Save: ThrustersTest
+[2023.10.15-18.26.33:364][972]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ThrustersTest.ThrustersTest
+[2023.10.15-18.26.34:503][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.26.34:629][ 37]LogSavePackage: Moving output files for package: /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small
+[2023.10.15-18.26.34:630][ 37]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/NS_Thruster_Cons_SmallB2FE3C7D44AEA5F84F797BB6F6CEC1F1.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/ShipThrusters/NS_Thruster_Cons_Small.uasset'
+[2023.10.15-18.26.34:637][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 7.35 sec)
+[2023.10.15-18.26.34:670][ 37]AssetCheck: New page: Asset Save: NS_Thruster_Cons_Small
+[2023.10.15-18.26.34:670][ 37]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small
+[2023.10.15-18.27.17:428][593]LogViewport: Scene viewport resized to 979x735, mode Windowed.
+[2023.10.15-18.27.47:775][399]BlueprintLog: New page: Compile Spidership
+[2023.10.15-18.27.47:882][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.15-18.27.48:187][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.27.48:298][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Spidership" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/Spidership.uasset" SILENT=true
+[2023.10.15-18.27.48:319][413]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Spidership
+[2023.10.15-18.27.48:319][413]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/Spidership6849F7F7456F17CC51E101B67F743E24.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/ThirdPerson/Blueprints/Spidership.uasset'
+[2023.10.15-18.27.48:326][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 7.49 sec)
+[2023.10.15-18.27.48:332][413]AssetCheck: New page: Asset Save: Spidership
+[2023.10.15-18.27.48:332][413]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Spidership.Spidership
+[2023.10.15-18.27.48:979][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.15-18.27.48:995][452]LogViewport: Scene viewport resized to 554x382, mode Windowed.
+[2023.10.15-18.27.54:351][755]Cmd: DELETE
+[2023.10.15-18.27.54:352][755]Cmd: ACTOR DELETE
+[2023.10.15-18.27.54:353][755]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.10.15-18.27.54:367][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.15-18.27.54:374][755]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.10.15-18.28.01:232][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.28.01:324][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.15-18.28.01:330][167]LogSavePackage: Moving output files for package: /Game/Maps/ThrustersTest
+[2023.10.15-18.28.01:330][167]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/ThrustersTestD9D231E34B2D999C2D0B1C88C2EB81D6.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/ThrustersTest.umap'
+[2023.10.15-18.28.01:337][167]LogFileHelpers: Saving map 'ThrustersTest' took 0.026
+[2023.10.15-18.28.01:342][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.60 sec)
+[2023.10.15-18.28.01:346][167]AssetCheck: New page: Asset Save: ThrustersTest
+[2023.10.15-18.28.01:346][167]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ThrustersTest.ThrustersTest
+[2023.10.15-18.28.45:883][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.28.45:977][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.15-18.28.45:983][838]LogSavePackage: Moving output files for package: /Game/Maps/ThrustersTest
+[2023.10.15-18.28.45:983][838]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/ThrustersTest910EF1614E7089F4A22A20A5612B95DA.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/ThrustersTest.umap'
+[2023.10.15-18.28.45:990][838]LogFileHelpers: Saving map 'ThrustersTest' took 0.027
+[2023.10.15-18.28.45:996][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 7.72 sec)
+[2023.10.15-18.28.46:001][838]AssetCheck: New page: Asset Save: ThrustersTest
+[2023.10.15-18.28.46:001][838]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ThrustersTest.ThrustersTest
+[2023.10.15-18.29.18:124][982]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Aatman/SpiderShip_Mesh/Body_1.Body_1
+[2023.10.15-18.29.18:131][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.29.18:131][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.29.18:187][982]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.15-18.29.18:187][982]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.18:187][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.18:187][982]MaterialEditorStats: Shader Count: 0
+[2023.10.15-18.29.18:190][982]LogViewport: Scene viewport resized to 374x498, mode Windowed.
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: ================================================
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Total job queries 330, among them cache hits 57 (17.27%)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Tracking 273 distinct input hashes that result in 132 distinct outputs (48.35%)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: RAM used: 6.21 MiB of 1.60 GiB budget. Usage: 0.38%
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Shaders Compiled: 237
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Jobs assigned 237, completed 237 (100.00%)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Average time worker was idle: 183.56 s
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.42 s
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 1.77 s
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Job life time (pending + execution): average 0.78 s, max 1.79
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.16 s
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Jobs were issued in 168 batches (only local compilation was used), average 1.41 jobs/batch
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Average processing rate: 15.63 jobs/sec
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Total thread time: 62.972 s
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Total thread preprocess time: 2.157 s
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Percentage time preprocessing: 3.42%
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Effective parallelization: 4.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 0.38 sec, max 0.41 sec, min 0.36 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 0.37 sec, max 0.45 sec, min 0.34 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 0.37 sec, max 0.43 sec, min 0.35 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.39% of total time (compiled   25 times, average 0.31 sec, max 0.45 sec, min 0.26 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.93% of total time (compiled   25 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.18% of total time (compiled   18 times, average 0.32 sec, max 0.42 sec, min 0.26 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.20% of total time (compiled   18 times, average 0.29 sec, max 0.40 sec, min 0.23 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.08% of total time (compiled   18 times, average 0.25 sec, max 0.28 sec, min 0.19 sec)
+[2023.10.15-18.29.18:223][983]LogShaderCompilers: Display: ================================================
+[2023.10.15-18.29.18:225][983]LogViewport: Scene viewport resized to 374x489, mode Windowed.
+[2023.10.15-18.29.18:263][984]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.18:263][984]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.18:263][984]MaterialEditorStats: Texture samplers: 6/16
+[2023.10.15-18.29.18:263][984]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.18:263][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.18:263][984]MaterialEditorStats: Shader Count: 2
+[2023.10.15-18.29.18:271][984]LogViewport: Scene viewport resized to 374x481, mode Windowed.
+[2023.10.15-18.29.39:124][234]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Aatman/SpiderShip_Mesh/Body_4.Body_4
+[2023.10.15-18.29.39:126][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.15-18.29.39:126][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.15-18.29.39:183][234]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.15-18.29.39:183][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.39:183][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.39:183][234]MaterialEditorStats: Shader Count: 0
+[2023.10.15-18.29.39:186][234]LogViewport: Scene viewport resized to 374x498, mode Windowed.
+[2023.10.15-18.29.39:213][235]LogViewport: Scene viewport resized to 374x492, mode Windowed.
+[2023.10.15-18.29.39:259][236]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.39:259][236]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.39:259][236]MaterialEditorStats: Texture samplers: 6/16
+[2023.10.15-18.29.39:259][236]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.39:259][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.39:259][236]MaterialEditorStats: Shader Count: 2
+[2023.10.15-18.29.39:261][236]LogViewport: Scene viewport resized to 374x481, mode Windowed.
+[2023.10.15-18.29.43:228][466]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.15-18.29.43:230][466]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.43:230][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.43:230][466]MaterialEditorStats: Shader Count: 0
+[2023.10.15-18.29.43:257][468]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.43:257][468]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.43:257][468]MaterialEditorStats: Texture samplers: 6/16
+[2023.10.15-18.29.43:257][468]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.43:257][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.43:257][468]MaterialEditorStats: Shader Count: 4
+[2023.10.15-18.29.44:167][522]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.15-18.29.44:187][522]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.15-18.29.44:187][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.44:187][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.44:187][522]MaterialEditorStats: Shader Count: 0
+[2023.10.15-18.29.44:211][524]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.44:211][524]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.44:211][524]MaterialEditorStats: Texture samplers: 6/16
+[2023.10.15-18.29.44:211][524]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.44:211][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.44:211][524]MaterialEditorStats: Shader Count: 4
+[2023.10.15-18.29.44:995][569]LogMaterialEditor: Applying material Body_4
+[2023.10.15-18.29.45:040][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.15-18.29.45:279][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.15-18.29.45:287][569]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.15-18.29.45:287][569]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.45:287][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.45:287][569]MaterialEditorStats: Shader Count: 2
+[2023.10.15-18.29.45:313][571]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.45:313][571]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.15-18.29.45:313][571]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.45:313][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.45:313][571]MaterialEditorStats: Shader Count: 3
+[2023.10.15-18.29.45:369][572]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.45:369][572]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.45:369][572]MaterialEditorStats: Texture samplers: 6/16
+[2023.10.15-18.29.45:369][572]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.45:369][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.45:369][572]MaterialEditorStats: Shader Count: 6
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: Base pass vertex shader: 522 instructions
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: Texture samplers: 6/16
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.45:443][575]MaterialEditorStats: Shader Count: 8
+[2023.10.15-18.29.46:217][620]LogMaterialEditor: Saving and Compiling material Body_4
+[2023.10.15-18.29.46:218][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.15-18.29.46:387][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Aatman/SpiderShip_Mesh/Body_4" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Aatman/SpiderShip_Mesh/Body_4.uasset" SILENT=true
+[2023.10.15-18.29.46:388][620]LogSavePackage: Moving output files for package: /Game/Aatman/SpiderShip_Mesh/Body_4
+[2023.10.15-18.29.46:389][620]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/Body_497B3534449309289B88EA99C382ED2FA.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Aatman/SpiderShip_Mesh/Body_4.uasset'
+[2023.10.15-18.29.46:395][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 7.89 sec)
+[2023.10.15-18.29.46:401][620]AssetCheck: New page: Asset Save: Body_4
+[2023.10.15-18.29.46:401][620]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Aatman/SpiderShip_Mesh/Body_4.Body_4
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: Base pass shader: 242 instructions
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: MaxSampler: 291 instructions
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: Base pass vertex shader: 522 instructions
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: Texture samplers: 7/16
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.15-18.29.46:402][620]MaterialEditorStats: Shader Count: 30
+[2023.10.15-18.29.47:413][680]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.29.47:413][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.29.47:431][680]LogViewport: Scene viewport resized to 374x506, mode Windowed.
+[2023.10.15-18.29.47:444][681]LogViewport: Scene viewport resized to 374x502, mode Windowed.
+[2023.10.15-18.29.47:467][682]LogViewport: Scene viewport resized to 374x497, mode Windowed.
+[2023.10.15-18.29.47:484][683]LogViewport: Scene viewport resized to 374x493, mode Windowed.
+[2023.10.15-18.29.47:501][684]LogViewport: Scene viewport resized to 374x488, mode Windowed.
+[2023.10.15-18.29.47:517][685]LogViewport: Scene viewport resized to 374x484, mode Windowed.
+[2023.10.15-18.29.47:534][686]LogViewport: Scene viewport resized to 374x481, mode Windowed.
+[2023.10.15-18.29.48:565][747]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.10.15-18.29.48:565][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.15-18.29.48:585][747]LogViewport: Scene viewport resized to 979x775, mode Windowed.
+[2023.10.15-18.29.48:599][748]LogViewport: Scene viewport resized to 979x769, mode Windowed.
+[2023.10.15-18.29.48:622][749]LogViewport: Scene viewport resized to 979x760, mode Windowed.
+[2023.10.15-18.29.48:638][750]LogViewport: Scene viewport resized to 979x753, mode Windowed.
+[2023.10.15-18.29.48:656][751]LogViewport: Scene viewport resized to 979x746, mode Windowed.
+[2023.10.15-18.29.48:670][752]LogViewport: Scene viewport resized to 979x740, mode Windowed.
+[2023.10.15-18.29.48:687][753]LogViewport: Scene viewport resized to 979x735, mode Windowed.
+[2023.10.15-18.29.53:138][ 17]LogViewport: Scene viewport resized to 554x382, mode Windowed.
