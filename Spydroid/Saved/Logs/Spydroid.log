@@ -2094,3 +2094,763 @@ Make sure 'ABP_SpiderShipCrawl_C' has been compiled for  Get
 [2023.10.24-21.56.54:875][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 942 ms)
 [2023.10.24-21.56.54:880][846]AssetCheck: New page: Asset Save: AnimTest
 [2023.10.24-21.56.54:880][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/AnimTest.AnimTest
+[2023.10.24-22.38.04:836][483]LogDerivedDataCache: C:/Users/adhir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:43.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 54586 files in 52684 folders with total size 7194 MiB.
+[2023.10.24-23.09.52:478][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.24-23.09.52:518][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.09.52:523][ 71]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TrainingYard.TrainingYard
+[2023.10.24-23.09.52:523][ 71]Cmd: MAP LOAD FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/TrainingYard.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.24-23.09.52:523][ 71]LightingResults: New page: Lighting Build
+[2023.10.24-23.09.52:524][ 71]LoadErrors: New page: Loading map: TrainingYard.umap
+[2023.10.24-23.09.52:552][ 71]LogWorld: UWorld::CleanupWorld for AnimTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.09.52:552][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.09.52:552][ 71]MapCheck: New page: Map Check
+[2023.10.24-23.09.52:552][ 71]LightingResults: New page: Lighting Build
+[2023.10.24-23.09.52:565][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.24-23.09.52:566][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.24-23.09.52:568][ 71]LogWorld: UWorld::CleanupWorld for TrainingYard, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.09.52:568][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.09.52:583][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.24-23.09.52:597][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.24-23.09.52:606][ 71]LogAudio: Display: Audio Device (ID: 1) registered with world 'TrainingYard'.
+[2023.10.24-23.09.52:607][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.09.52:607][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-23.09.52:607][ 71]LogAIModule: Creating AISystem for world TrainingYard
+[2023.10.24-23.09.52:625][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.24-23.09.52:644][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.24-23.09.52:648][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.24-23.09.52:648][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2023.10.24-23.09.52:648][ 71]LogFileHelpers: Loading map 'TrainingYard' took 0.124
+[2023.10.24-23.09.52:665][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:665][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:666][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:666][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:666][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:666][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:667][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:667][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:667][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:667][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:668][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:668][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:668][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:668][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:669][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:669][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.52:669][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:660][308]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.24-23.09.56:665][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.24-23.09.56:665][308]PIE: New page: PIE session: TrainingYard (24-Oct-2023, 3:09:56 pm)
+[2023.10.24-23.09.56:665][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TrainingYard
+[2023.10.24-23.09.56:671][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006631s)
+[2023.10.24-23.09.56:671][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainingYard.TrainingYard to /Game/Maps/UEDPIE_0_TrainingYard.TrainingYard (0.006660s)
+[2023.10.24-23.09.56:671][308]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.09.56:671][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-23.09.56:672][308]LogAIModule: Creating AISystem for world TrainingYard
+[2023.10.24-23.09.56:672][308]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2023.10.24-23.09.56:686][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.24-23.09.56:687][308]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.24-23.09.56:687][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.24-23.09.56:687][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-23.09.56:687][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-23.09.56:687][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-23.09.56:687][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-23.09.56:689][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-23.09.56:699][308]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MAJOR IV)
+[2023.10.24-23.09.56:699][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-23.09.56:699][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-23.09.56:699][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-23.09.56:700][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.24-23.09.56:700][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.24-23.09.56:701][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.24-23.09.56:701][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.24-23.09.56:701][308]LogInit: FAudioDevice initialized with ID 5.
+[2023.10.24-23.09.56:701][308]LogAudio: Display: Audio Device (ID: 5) registered with world 'TrainingYard'.
+[2023.10.24-23.09.56:701][308]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.24-23.09.56:704][308]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.24-23.09.56:706][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TrainingYard.TrainingYard up for play (max tick rate 60) at 2023.10.24-19.09.56
+[2023.10.24-23.09.56:706][308]LogBlueprintUserMessages: [AIC_Enemy_C_0] !
+[2023.10.24-23.09.56:706][308]LogWorld: Bringing up level for play took: 0.001946
+[2023.10.24-23.09.56:708][308]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.10.24-23.09.56:710][308]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_EnemyPawn1
+[2023.10.24-23.09.56:710][308]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.09.56:710][308]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_EnemyPawn1
+[2023.10.24-23.09.56:710][308]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.09.56:711][308]LogBlueprintUserMessages: [Spidership_C_0] Spidership_C_0
+[2023.10.24-23.09.56:711][308]PIE: Server logged in
+[2023.10.24-23.09.56:711][308]PIE: Play in editor total start time 0.046 seconds.
+[2023.10.24-23.09.56:729][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:730][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:730][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:731][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:731][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:731][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:731][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:732][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:732][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:732][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:732][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:732][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:732][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:733][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:733][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:733][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:733][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:733][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:733][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:735][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:735][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:735][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.56:854][314]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] Cast succeeded
+[2023.10.24-23.09.56:855][314]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] 6!
+[2023.10.24-23.09.58:670][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-23.09.58:670][421]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TrainingYard
+[2023.10.24-23.09.58:670][421]LogWorld: UWorld::CleanupWorld for TrainingYard, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.09.58:672][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.09.58:678][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-23.09.58:681][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.09.58:695][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.24-23.09.58:696][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.24-23.09.58:696][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.24-23.09.58:697][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.24-23.09.58:700][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-23.09.58:703][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.24-23.09.58:726][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:726][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:726][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:726][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:727][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:727][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:727][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:727][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:728][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:728][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:728][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:728][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:729][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:729][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:729][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:729][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:730][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.09.58:740][422]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.10.24-23.10.04:485][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.10.05:334][814]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Spidership.Spidership
+[2023.10.24-23.10.05:346][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.10.05:346][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-23.10.07:319][915]LogViewport: Scene viewport resized to 1312x827, mode Windowed.
+[2023.10.24-23.10.16:988][490]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation.Spider_Ship_Crawl_Animation
+[2023.10.24-23.10.16:990][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.10.16:990][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-23.10.16:997][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.10.17:174][490]LogViewport: Scene viewport resized to 1333x1218, mode Windowed.
+[2023.10.24-23.10.19:708][638]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.10.19:708][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.10.19:787][638]LogViewport: Scene viewport resized to 1333x1237, mode Windowed.
+[2023.10.24-23.10.19:825][639]LogViewport: Scene viewport resized to 1333x1224, mode Windowed.
+[2023.10.24-23.10.19:843][640]LogViewport: Scene viewport resized to 1333x1218, mode Windowed.
+[2023.10.24-23.10.27:793][107]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.33:664][447]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.36:198][587]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.38:945][741]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: ================================================
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Total job queries 82, among them cache hits 16 (19.51%)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 9 distinct outputs (13.64%)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: RAM used: 1.32 MiB of 1.60 GiB budget. Usage: 0.08%
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.63 s
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.68
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.68 s
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Average processing rate: 5.84 jobs/sec
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Total thread time: 1.275 s
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Total thread preprocess time: 0.045 s
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Percentage time preprocessing: 3.53%
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.01% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.23% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.73% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 19.03% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.10.24-23.10.39:040][742]LogShaderCompilers: Display: ================================================
+[2023.10.24-23.10.43:740][ 16]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.46:619][175]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.51:208][437]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.56:419][735]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.10.58:803][865]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.01:870][ 37]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.01:872][ 37]LogMaterial: Display: Material /Game/Materials/PlanetTex_Translucent.PlanetTex_Translucent needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.11.10:160][514]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.10:162][514]LogMaterial: Display: Material /Game/Materials/MoonTex.MoonTex needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.11.15:365][811]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.17:814][945]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.24:404][323]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.24:406][323]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.11.30:872][692]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.30:873][692]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.11.41:216][294]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.48:690][724]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.56:429][170]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.11.56:430][170]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.12.04:862][652]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.12.04:864][652]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.12.11:710][ 40]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.12.11:711][ 40]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.12.31:160][161]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.12.31:163][161]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.12.47:068][ 87]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.12.47:070][ 87]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.13.25:822][385]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.13.35:997][980]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.13.56:655][206]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.03:294][591]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.05:513][718]Cmd: TRANSACTION UNDO
+[2023.10.24-23.14.05:513][718]LogEditorTransaction: Undo Persona editor: material changed
+[2023.10.24-23.14.05:565][718]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.05:714][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.14.05:715][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.14.05:716][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.14.10:187][963]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.13:602][158]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.25:584][864]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.49:133][258]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.14.59:955][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-23.15.00:188][897]LogSavePackage: Moving output files for package: /Game/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation
+[2023.10.24-23.15.00:189][897]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/Spider_Ship_Crawl_Animation7F7D8D7F4C14CAB52DC752AF40104789.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation.uasset'
+[2023.10.24-23.15.00:195][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 1.18 sec)
+[2023.10.24-23.15.00:203][897]AssetCheck: New page: Asset Save: Spider_Ship_Crawl_Animation
+[2023.10.24-23.15.00:204][897]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation.Spider_Ship_Crawl_Animation
+[2023.10.24-23.15.17:786][935]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.17:789][935]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone needed to have new flag set bUsedWithSkeletalMesh !
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: ================================================
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Total job queries 516, among them cache hits 42 (8.14%)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Tracking 442 distinct input hashes that result in 176 distinct outputs (39.82%)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: RAM used: 11.72 MiB of 1.60 GiB budget. Usage: 0.72%
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Shaders Compiled: 376
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Jobs assigned 408, completed 376 (92.16%)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Average time worker was idle: 246.71 s
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 1.21 s
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Job execution time: average 1.71 s, max 2.97 s
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Job life time (pending + execution): average 1.75 s, max 2.98
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.88 s
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Jobs were issued in 116 batches (only local compilation was used), average 3.52 jobs/batch
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Average processing rate: 19.91 jobs/sec
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Total thread time: 145.026 s
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Total thread preprocess time: 7.909 s
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Percentage time preprocessing: 5.45%
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Effective parallelization: 7.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    4 times, average 0.63 sec, max 0.86 sec, min 0.43 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    4 times, average 0.63 sec, max 0.88 sec, min 0.43 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 0.59 sec, max 0.87 sec, min 0.37 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.50 sec, max 0.59 sec, min 0.40 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.48 sec, max 0.57 sec, min 0.38 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.03% of total time (compiled   19 times, average 0.46 sec, max 0.87 sec, min 0.35 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.79% of total time (compiled   20 times, average 0.42 sec, max 0.87 sec, min 0.33 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.55% of total time (compiled   18 times, average 0.45 sec, max 0.88 sec, min 0.35 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.48% of total time (compiled   18 times, average 0.44 sec, max 0.87 sec, min 0.35 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.35% of total time (compiled   18 times, average 0.43 sec, max 0.67 sec, min 0.34 sec)
+[2023.10.24-23.15.19:298][ 16]LogShaderCompilers: Display: ================================================
+[2023.10.24-23.15.20:014][ 59]Cmd: TRANSACTION UNDO
+[2023.10.24-23.15.20:014][ 59]LogEditorTransaction: Undo Persona editor: material changed
+[2023.10.24-23.15.20:055][ 59]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.20:197][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.20:198][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.20:198][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.30:464][649]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.44:184][455]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.50:428][813]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.52:518][932]Cmd: TRANSACTION UNDO
+[2023.10.24-23.15.52:518][932]LogEditorTransaction: Undo Persona editor: material changed
+[2023.10.24-23.15.52:559][932]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.52:704][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.52:705][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.52:706][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.53:232][950]Cmd: TRANSACTION UNDO
+[2023.10.24-23.15.53:232][950]LogEditorTransaction: Undo Persona editor: material changed
+[2023.10.24-23.15.53:273][950]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.15.53:414][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.53:415][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.53:416][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.24-23.15.57:585][186]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.16.23:330][711]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_Crawl_Animation) ...
+[2023.10.24-23.16.31:853][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-23.16.32:040][213]LogSavePackage: Moving output files for package: /Game/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation
+[2023.10.24-23.16.32:041][213]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/Spider_Ship_Crawl_Animation31CA2B794FDF05EB3485A98A44300182.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation.uasset'
+[2023.10.24-23.16.32:049][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 1.37 sec)
+[2023.10.24-23.16.32:054][213]AssetCheck: New page: Asset Save: Spider_Ship_Crawl_Animation
+[2023.10.24-23.16.32:054][213]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Aatman/SpiderShip_Animation/Spider_Ship_Crawl_Animation.Spider_Ship_Crawl_Animation
+[2023.10.24-23.16.34:403][351]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.16.34:404][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.16.34:473][351]LogViewport: Scene viewport resized to 1246x763, mode Windowed.
+[2023.10.24-23.16.34:486][352]LogViewport: Scene viewport resized to 1246x754, mode Windowed.
+[2023.10.24-23.16.34:515][353]LogViewport: Scene viewport resized to 1246x749, mode Windowed.
+[2023.10.24-23.16.35:547][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:547][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:547][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:548][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:548][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:548][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:548][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:549][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:550][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:550][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:550][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:551][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:551][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:551][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:551][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:552][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.35:552][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:437][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.24-23.16.36:441][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.24-23.16.36:441][468]PIE: New page: PIE session: TrainingYard (24-Oct-2023, 3:16:36 pm)
+[2023.10.24-23.16.36:441][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TrainingYard
+[2023.10.24-23.16.36:447][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005736s)
+[2023.10.24-23.16.36:447][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainingYard.TrainingYard to /Game/Maps/UEDPIE_0_TrainingYard.TrainingYard (0.005764s)
+[2023.10.24-23.16.36:447][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.16.36:447][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-23.16.36:447][468]LogAIModule: Creating AISystem for world TrainingYard
+[2023.10.24-23.16.36:448][468]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2023.10.24-23.16.36:466][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.24-23.16.36:472][468]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.24-23.16.36:473][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.24-23.16.36:473][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-23.16.36:473][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-23.16.36:473][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-23.16.36:473][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-23.16.36:475][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-23.16.36:483][468]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MAJOR IV)
+[2023.10.24-23.16.36:483][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-23.16.36:483][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-23.16.36:483][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-23.16.36:483][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.24-23.16.36:483][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.24-23.16.36:485][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.24-23.16.36:485][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.24-23.16.36:485][468]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.24-23.16.36:485][468]LogAudio: Display: Audio Device (ID: 6) registered with world 'TrainingYard'.
+[2023.10.24-23.16.36:485][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.24-23.16.36:488][468]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.24-23.16.36:490][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TrainingYard.TrainingYard up for play (max tick rate 60) at 2023.10.24-19.16.36
+[2023.10.24-23.16.36:490][468]LogBlueprintUserMessages: [AIC_Enemy_C_0] !
+[2023.10.24-23.16.36:490][468]LogWorld: Bringing up level for play took: 0.001910
+[2023.10.24-23.16.36:491][468]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.10.24-23.16.36:494][468]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_EnemyPawn1
+[2023.10.24-23.16.36:494][468]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.36:494][468]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_EnemyPawn1
+[2023.10.24-23.16.36:494][468]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.36:494][468]LogBlueprintUserMessages: [Spidership_C_0] Spidership_C_0
+[2023.10.24-23.16.36:494][468]PIE: Server logged in
+[2023.10.24-23.16.36:495][468]PIE: Play in editor total start time 0.054 seconds.
+[2023.10.24-23.16.36:517][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:517][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:518][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:518][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:518][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:518][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:519][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:519][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:519][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:519][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:520][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:520][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:521][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:521][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:521][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:521][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:522][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:522][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:522][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:522][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:523][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:523][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.16.36:623][472]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] Cast succeeded
+[2023.10.24-23.16.36:623][472]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] 6!
+[2023.10.24-23.16.43:689][896]LogBlueprintUserMessages: [Spidership_C_0] BP_EnemyPawn1
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [Spidership_C_0] BP_EnemyPawn1
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] Spidership0
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] true
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] You have been spotted!
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] Shoot player called
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_ProjectileBullet_C_0] Projectile Launched
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet0
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet0
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet0
+[2023.10.24-23.16.43:756][900]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.44:857][966]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.44:857][966]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.44:857][966]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_ProjectileBullet_C_1] Projectile Launched
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.45:740][ 19]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.46:807][ 83]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.46:807][ 83]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.46:807][ 83]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.46:956][ 92]LogBlueprintUserMessages: [Spidership_C_0] PPC
+[2023.10.24-23.16.47:239][109]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.47:239][109]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.47:239][109]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.47:406][119]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet0
+[2023.10.24-23.16.47:406][119]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.47:406][119]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet0
+[2023.10.24-23.16.47:406][119]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.47:406][119]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet0
+[2023.10.24-23.16.47:406][119]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_ProjectileBullet_C_2] Projectile Launched
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet2
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet2
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet2
+[2023.10.24-23.16.47:741][139]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.48:807][203]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.48:807][203]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.48:807][203]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.49:107][221]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.49:107][221]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.49:107][221]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.49:290][232]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.49:290][232]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.49:290][232]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.49:290][232]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.49:290][232]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.49:290][232]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.49:590][250]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.49:590][250]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.49:591][250]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_ProjectileBullet_C_3] Projectile Launched
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet3
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet3
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet3
+[2023.10.24-23.16.49:741][259]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.50:841][325]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.50:841][325]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.50:841][325]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.51:074][339]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.51:074][339]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.51:090][340]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.51:274][351]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet2
+[2023.10.24-23.16.51:274][351]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.51:274][351]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet2
+[2023.10.24-23.16.51:274][351]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.51:274][351]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet2
+[2023.10.24-23.16.51:274][351]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.51:373][357]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.51:374][357]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.51:374][357]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_ProjectileBullet_C_4] Projectile Launched
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet4
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet4
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet4
+[2023.10.24-23.16.51:740][379]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.51:891][388]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.51:891][388]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.51:907][389]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.52:890][448]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet4
+[2023.10.24-23.16.52:890][448]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet4
+[2023.10.24-23.16.52:891][448]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet4
+[2023.10.24-23.16.53:140][463]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.53:141][463]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.53:141][463]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.53:324][474]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.53:324][474]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.53:324][474]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.53:557][488]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet3
+[2023.10.24-23.16.53:557][488]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.53:557][488]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet3
+[2023.10.24-23.16.53:557][488]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.53:557][488]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet3
+[2023.10.24-23.16.53:557][488]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.53:606][491]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.53:606][491]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.53:606][491]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet1
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_ProjectileBullet_C_5] Projectile Launched
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet5
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet5
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet5
+[2023.10.24-23.16.53:741][499]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.54:174][525]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.54:174][525]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.54:174][525]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.54:191][526]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.54:473][543]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.54:473][543]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.54:508][545]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.54:508][545]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.54:508][545]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet1
+[2023.10.24-23.16.54:508][545]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.54:956][572]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.54:956][572]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.54:956][572]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.55:258][590]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet4
+[2023.10.24-23.16.55:258][590]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet4
+[2023.10.24-23.16.55:258][590]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet4
+[2023.10.24-23.16.55:390][598]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.55:391][598]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.55:407][599]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.55:524][606]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.55:524][606]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.55:524][606]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_ProjectileBullet_C_6] Projectile Launched
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.16.55:741][619]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.56:423][660]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.56:423][660]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.56:423][660]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.57:041][697]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.16.57:041][697]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.16.57:041][697]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.16.57:441][721]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.57:441][721]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.57:441][721]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.57:624][732]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.57:624][732]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.57:624][732]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.57:690][736]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.57:690][736]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.57:707][737]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.58:324][774]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet5
+[2023.10.24-23.16.58:324][774]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.58:324][774]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet5
+[2023.10.24-23.16.58:324][774]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.58:340][775]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet5
+[2023.10.24-23.16.58:340][775]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.16.58:642][793]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.58:642][793]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.58:642][793]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.16.59:642][853]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.16.59:642][853]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.16.59:642][853]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.16.59:825][864]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.59:825][864]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.59:825][864]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.16.59:842][865]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.59:842][865]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.59:842][865]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.16.59:875][867]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.59:875][867]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.59:892][868]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.59:892][868]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.16.59:892][868]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet5
+[2023.10.24-23.17.00:825][924]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.00:825][924]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.00:825][924]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.00:876][927]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.17.00:876][927]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.17.00:876][927]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.17.00:876][927]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.17.00:908][929]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.17.00:908][929]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.17.00:993][934]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_ProjectileBullet6
+[2023.10.24-23.17.00:993][934]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.17.01:942][991]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.01:943][991]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.01:943][991]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.01:992][994]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.01:992][994]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.01:992][994]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.02:226][  8]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.17.02:226][  8]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.17.02:226][  8]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.17.02:975][ 53]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.02:975][ 53]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.02:975][ 53]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.03:159][ 64]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.03:159][ 64]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.04:009][115]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.04:009][115]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.04:009][115]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.04:109][121]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.04:109][121]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.04:109][121]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.04:125][122]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.04:776][161]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.17.04:776][161]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.17.04:776][161]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet6
+[2023.10.24-23.17.05:077][179]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.05:077][179]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.05:077][179]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet0
+[2023.10.24-23.17.06:043][237]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.06:043][237]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.06:043][237]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet2
+[2023.10.24-23.17.06:209][247]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.06:209][247]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.06:209][247]LogBlueprintUserMessages: [Spidership_C_0] BP_ProjectileBullet3
+[2023.10.24-23.17.06:741][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-23.17.06:741][276]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TrainingYard
+[2023.10.24-23.17.06:741][276]LogWorld: UWorld::CleanupWorld for TrainingYard, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.17.06:741][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.17.06:748][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-23.17.06:752][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.17.06:765][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.24-23.17.06:765][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.24-23.17.06:765][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.24-23.17.06:766][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.24-23.17.06:769][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-23.17.06:772][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.24-23.17.06:794][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:795][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:795][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:795][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:795][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:796][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:796][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:796][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:796][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:796][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:797][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:797][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:797][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:797][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:797][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:799][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:799][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.06:809][277]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.10.24-23.17.08:439][373]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.24-23.17.08:444][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.24-23.17.08:444][373]PIE: New page: PIE session: TrainingYard (24-Oct-2023, 3:17:08 pm)
+[2023.10.24-23.17.08:445][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TrainingYard
+[2023.10.24-23.17.08:451][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005816s)
+[2023.10.24-23.17.08:451][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainingYard.TrainingYard to /Game/Maps/UEDPIE_0_TrainingYard.TrainingYard (0.005850s)
+[2023.10.24-23.17.08:451][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-23.17.08:451][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-23.17.08:451][373]LogAIModule: Creating AISystem for world TrainingYard
+[2023.10.24-23.17.08:451][373]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2023.10.24-23.17.08:466][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.24-23.17.08:469][373]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.24-23.17.08:469][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.24-23.17.08:469][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-23.17.08:470][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-23.17.08:470][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-23.17.08:470][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-23.17.08:471][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-23.17.08:480][373]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MAJOR IV)
+[2023.10.24-23.17.08:480][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-23.17.08:480][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-23.17.08:480][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-23.17.08:480][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.24-23.17.08:480][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.24-23.17.08:482][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.24-23.17.08:482][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.24-23.17.08:482][373]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.24-23.17.08:482][373]LogAudio: Display: Audio Device (ID: 7) registered with world 'TrainingYard'.
+[2023.10.24-23.17.08:482][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.24-23.17.08:484][373]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.24-23.17.08:486][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TrainingYard.TrainingYard up for play (max tick rate 60) at 2023.10.24-19.17.08
+[2023.10.24-23.17.08:486][373]LogBlueprintUserMessages: [AIC_Enemy_C_0] !
+[2023.10.24-23.17.08:486][373]LogWorld: Bringing up level for play took: 0.001862
+[2023.10.24-23.17.08:488][373]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.10.24-23.17.08:490][373]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_EnemyPawn1
+[2023.10.24-23.17.08:490][373]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.17.08:490][373]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] BP_EnemyPawn1
+[2023.10.24-23.17.08:490][373]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] false
+[2023.10.24-23.17.08:490][373]LogBlueprintUserMessages: [Spidership_C_0] Spidership_C_0
+[2023.10.24-23.17.08:490][373]PIE: Server logged in
+[2023.10.24-23.17.08:491][373]PIE: Play in editor total start time 0.047 seconds.
+[2023.10.24-23.17.08:512][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:512][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:512][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:512][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:513][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:513][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:513][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:513][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:513][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:513][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:515][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:515][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:515][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:515][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:515][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:516][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:516][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:516][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:516][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:516][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:517][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:517][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.08:628][378]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] Cast succeeded
+[2023.10.24-23.17.08:628][378]LogBlueprintUserMessages: [BP_EnemyPawn_C_1] 6!
+[2023.10.24-23.17.15:311][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-23.17.15:311][777]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TrainingYard
+[2023.10.24-23.17.15:311][777]LogWorld: UWorld::CleanupWorld for TrainingYard, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-23.17.15:311][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.17.15:318][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-23.17.15:322][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-23.17.15:336][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-23.17.15:336][777]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.24-23.17.15:336][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.24-23.17.15:338][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.24-23.17.15:343][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.24-23.17.15:365][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:365][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:366][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:366][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:367][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:367][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:367][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:367][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:367][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:368][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:368][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:368][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:368][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:369][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:369][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:369][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:369][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.24-23.17.15:379][778]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.10.24-23.17.16:722][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-23.17.16:753][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TrainingYard" FILE="../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/TrainingYard.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.24-23.17.16:766][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.24-23.17.16:781][857]LogSavePackage: Moving output files for package: /Game/Maps/TrainingYard
+[2023.10.24-23.17.16:782][857]LogSavePackage: Moving '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Saved/TrainingYard462761D44BCB31389333ACB76118FFF3.tmp' to '../../../../../../Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/TrainingYard.umap'
+[2023.10.24-23.17.16:786][857]LogFileHelpers: Saving map 'TrainingYard' took 0.034
+[2023.10.24-23.17.16:792][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.44 sec)
+[2023.10.24-23.17.16:798][857]AssetCheck: New page: Asset Save: TrainingYard
+[2023.10.24-23.17.16:798][857]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/TrainingYard.TrainingYard
