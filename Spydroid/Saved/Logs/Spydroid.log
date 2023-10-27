@@ -7168,3 +7168,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-19.49.30:728][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 22.6 sec)
 [2023.10.27-19.49.30:736][248]AssetCheck: New page: Asset Save: Nautilus3
 [2023.10.27-19.49.30:736][248]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Aatman/EnemyShip/Nautilus3.Nautilus3
+[2023.10.27-19.51.13:644][724]LogMaterialEditor: Saving and Compiling material Metal_Plates_003
+[2023.10.27-19.51.13:646][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-19.51.15:125][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Aatman/EnemyShip/Metal_Plates_003" FILE="../../../../../Profiles/ab9096/Github/Spideroid/Spydroid/Content/Aatman/EnemyShip/Metal_Plates_003.uasset" SILENT=true
+[2023.10.27-19.51.15:127][724]LogSavePackage: Moving output files for package: /Game/Aatman/EnemyShip/Metal_Plates_003
+[2023.10.27-19.51.15:128][724]LogSavePackage: Moving '../../../../../Profiles/ab9096/Github/Spideroid/Spydroid/Saved/Metal_Plates_0032A7221EF4A170C646023198CED409AD9.tmp' to '../../../../../Profiles/ab9096/Github/Spideroid/Spydroid/Content/Aatman/EnemyShip/Metal_Plates_003.uasset'
+[2023.10.27-19.51.15:134][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.48 sec (total: 24.1 sec)
+[2023.10.27-19.51.15:139][724]AssetCheck: New page: Asset Save: Metal_Plates_003
+[2023.10.27-19.51.15:139][724]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Aatman/EnemyShip/Metal_Plates_003.Metal_Plates_003
+[2023.10.27-19.51.15:140][724]MaterialEditorStats: Base pass shader: 198 instructions
+[2023.10.27-19.51.15:140][724]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.27-19.51.15:140][724]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.27-19.51.15:140][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.27-19.51.15:140][724]MaterialEditorStats: Shader Count: 22
