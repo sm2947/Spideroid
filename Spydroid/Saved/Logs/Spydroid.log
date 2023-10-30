@@ -9927,3 +9927,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.30-19.18.21:182][496]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2023.10.30-19.18.23:141][675]LogSlate: Window 'Message Log' being destroyed
 [2023.10.30-19.18.23:154][675]LogSlate: Window 'Message Log' being destroyed
+[2023.10.30-19.18.49:576][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-19.18.49:632][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/BP_PlayerHUD" FILE="../../../../../Profiles/ab9096/Github/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset" SILENT=true
+[2023.10.30-19.18.49:642][ 19]LogSavePackage: Moving output files for package: /Game/UI/HUD/BP_PlayerHUD
+[2023.10.30-19.18.49:642][ 19]LogSavePackage: Moving '../../../../../Profiles/ab9096/Github/Spideroid/Spydroid/Saved/BP_PlayerHUDCE201D874C39FA20000DFBACF3E7E06C.tmp' to '../../../../../Profiles/ab9096/Github/Spideroid/Spydroid/Content/UI/HUD/BP_PlayerHUD.uasset'
+[2023.10.30-19.18.49:649][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.91 sec)
+[2023.10.30-19.18.49:655][ 19]AssetCheck: New page: Asset Save: BP_PlayerHUD
+[2023.10.30-19.18.49:655][ 19]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD/BP_PlayerHUD.BP_PlayerHUD
