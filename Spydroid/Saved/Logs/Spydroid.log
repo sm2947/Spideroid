@@ -4433,3 +4433,221 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.03-23.00.31:936][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.03-23.00.31:936][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.03-23.00.31:937][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.07.21:876][259]LogStaticMesh: Display: Building static mesh SM_LightStand...
+[2023.11.03-23.07.21:994][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand
+[2023.11.03-23.07.21:994][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand
+[2023.11.03-23.07.21:994][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand as actor: StaticMeshActor /Game/Maps/Liam.Liam:PersistentLevel.StaticMeshActor_152
+[2023.11.03-23.07.22:012][261]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IsolateCamp/Meshes/SM_LightStand) ...
+[2023.11.03-23.07.22:039][261]LogStaticMesh: Built static mesh [0.16s] /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand
+[2023.11.03-23.07.22:070][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.07.22:132][263]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_lights_Emissive.T_lights_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.22:250][271]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_lights_Normal.T_lights_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.22:354][279]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_lights_Color.T_lights_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.22:391][281]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_lights_RAM.T_lights_RAM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.22:553][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand
+[2023.11.03-23.07.22:553][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand
+[2023.11.03-23.07.22:555][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/IsolateCamp/Meshes/SM_LightStand.SM_LightStand as actor: StaticMeshActor /Game/Maps/Liam.Liam:PersistentLevel.StaticMeshActor_153
+[2023.11.03-23.07.22:613][289]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.07.48:281][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-23.07.48:329][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Liam" FILE="../../../../Profiles/lga7192/Spideroid/Spydroid/Content/Maps/Liam.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-23.07.48:341][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.03-23.07.48:366][132]LogSavePackage: Moving output files for package: /Game/Maps/Liam
+[2023.11.03-23.07.48:367][132]LogSavePackage: Moving '../../../../Profiles/lga7192/Spideroid/Spydroid/Saved/LiamF25C48FF4C5673BAD9E7FA8DA26A13F3.tmp' to '../../../../Profiles/lga7192/Spideroid/Spydroid/Content/Maps/Liam.umap'
+[2023.11.03-23.07.48:373][132]LogFileHelpers: Saving map 'Liam' took 0.045
+[2023.11.03-23.07.48:378][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.01 sec)
+[2023.11.03-23.07.48:383][132]AssetCheck: New page: Asset Save: Liam
+[2023.11.03-23.07.48:383][132]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Liam.Liam
+[2023.11.03-23.07.52:598][553]LogStaticMesh: Display: Building static mesh SM_PowerGenerator...
+[2023.11.03-23.07.52:666][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator
+[2023.11.03-23.07.52:666][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator
+[2023.11.03-23.07.52:666][553]LogActorFactory: Actor Factory spawned StaticMesh /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator as actor: StaticMeshActor /Game/Maps/Liam.Liam:PersistentLevel.StaticMeshActor_154
+[2023.11.03-23.07.52:684][553]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IsolateCamp/Meshes/SM_PowerGenerator) ...
+[2023.11.03-23.07.52:843][553]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_PowerGenerator_Emissive.T_PowerGenerator_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.53:004][553]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_PowerGenerator_Color.T_PowerGenerator_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.53:078][553]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_PowerGenerator_Normal.T_PowerGenerator_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.53:107][553]LogTexture: Display: Building textures: /Game/IsolateCamp/Textures/T_PowerGenerator_RAM.T_PowerGenerator_RAM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.11.03-23.07.53:365][553]LogStaticMesh: Built static mesh [0.77s] /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator
+[2023.11.03-23.07.53:449][553]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.07.53:482][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator
+[2023.11.03-23.07.53:482][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator
+[2023.11.03-23.07.53:484][554]LogActorFactory: Actor Factory spawned StaticMesh /Game/IsolateCamp/Meshes/SM_PowerGenerator.SM_PowerGenerator as actor: StaticMeshActor /Game/Maps/Liam.Liam:PersistentLevel.StaticMeshActor_155
+[2023.11.03-23.07.53:520][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.07.53:520][554]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.08.46:342][549]LogStaticMesh: Display: Building static mesh SM_MedicalBox...
+[2023.11.03-23.08.46:362][549]LogStaticMesh: Built static mesh [0.02s] /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox
+[2023.11.03-23.08.46:452][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox
+[2023.11.03-23.08.46:452][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox
+[2023.11.03-23.08.46:453][550]LogActorFactory: Actor Factory spawned StaticMesh /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox as actor: StaticMeshActor /Game/Maps/Liam.Liam:PersistentLevel.StaticMeshActor_156
+[2023.11.03-23.08.46:459][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.08.47:063][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox
+[2023.11.03-23.08.47:063][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox
+[2023.11.03-23.08.47:064][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/IsolateCamp/Meshes/SM_MedicalBox.SM_MedicalBox as actor: StaticMeshActor /Game/Maps/Liam.Liam:PersistentLevel.StaticMeshActor_157
+[2023.11.03-23.08.47:088][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: ================================================
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Total job queries 125, among them cache hits 19 (15.20%)
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Tracking 100 distinct input hashes that result in 84 distinct outputs (84.00%)
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: RAM used: 2.30 MiB of 1.60 GiB budget. Usage: 0.14%
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Shaders Compiled: 100
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Jobs assigned 106, completed 100 (94.34%)
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Average time worker was idle: 281.00 s
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Time job spent in pending queue: average 2.33 s, longest 7.36 s
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Job execution time: average 1.13 s, max 4.16 s
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Job life time (pending + execution): average 3.59 s, max 8.43
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.36 s
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Jobs were issued in 106 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Average processing rate: 5.45 jobs/sec
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Total thread time: 67.586 s
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Total thread preprocess time: 3.187 s
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Percentage time preprocessing: 4.72%
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Effective parallelization: 3.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.03-23.08.58:740][841]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 1.13 sec, max 1.51 sec, min 0.73 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.91 sec, max 1.99 sec, min 0.52 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.89 sec, max 1.33 sec, min 0.59 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   23 times, average 0.79 sec, max 1.97 sec, min 0.47 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.67 sec, max 0.76 sec, min 0.58 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.87% of total time (compiled   23 times, average 0.91 sec, max 1.99 sec, min 0.52 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.04% of total time (compiled   23 times, average 0.79 sec, max 1.97 sec, min 0.47 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.36% of total time (compiled   13 times, average 0.54 sec, max 1.22 sec, min 0.27 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.87% of total time (compiled   11 times, average 0.61 sec, max 0.88 sec, min 0.43 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.26% of total time (compiled    4 times, average 0.89 sec, max 1.33 sec, min 0.59 sec)
+[2023.11.03-23.08.58:741][841]LogShaderCompilers: Display: ================================================
+[2023.11.03-23.09.02:309][184]LogSkeletalMesh: Building Skeletal Mesh Spider_Ship_4_8_2_2...
+[2023.11.03-23.09.02:373][184]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Spider_Ship_4_8_2_2) ...
+[2023.11.03-23.09.02:437][184]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.11.03-23.09.03:139][184]LogSkeletalMesh: Built Skeletal Mesh [0.83s] /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2
+[2023.11.03-23.09.03:142][184]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-23.09.03:269][185]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2
+[2023.11.03-23.09.03:270][185]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2
+[2023.11.03-23.09.03:270][185]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2 as actor: SkeletalMeshActor /Game/Maps/Liam.Liam:PersistentLevel.SkeletalMeshActor_0
+[2023.11.03-23.09.03:271][185]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2 as actor: SkeletalMeshActor /Game/Maps/Liam.Liam:PersistentLevel.SkeletalMeshActor_0
+[2023.11.03-23.09.03:299][186]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2
+[2023.11.03-23.09.03:300][186]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2
+[2023.11.03-23.09.03:301][186]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2 as actor: SkeletalMeshActor /Game/Maps/Liam.Liam:PersistentLevel.SkeletalMeshActor_1
+[2023.11.03-23.09.03:302][186]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Aatman/SpiderShip_Mesh/Spider_Ship_4_8_2_2.Spider_Ship_4_8_2_2 as actor: SkeletalMeshActor /Game/Maps/Liam.Liam:PersistentLevel.SkeletalMeshActor_1
+[2023.11.03-23.09.03:365][186]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.04:619][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-23.09.04:629][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-23.09.07:448][447]Cmd: TRANSACTION UNDO
+[2023.11.03-23.09.07:448][447]LogEditorTransaction: Undo Rotate Elements
+[2023.11.03-23.09.07:503][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:504][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:504][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:505][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:505][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:505][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:506][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.07:977][456]Cmd: TRANSACTION UNDO
+[2023.11.03-23.09.07:977][456]LogEditorTransaction: Undo Create Actors
+[2023.11.03-23.09.08:022][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.08:023][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.08:023][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.08:023][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.08:024][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.08:024][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.08:025][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.10:870][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.03-23.09.10:879][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.03-23.09.10:880][769]PIE: New page: PIE session: Liam (Nov 3, 2023, 3:09:10 PM)
+[2023.11.03-23.09.10:884][769]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.03-23.09.10:885][769]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.11.03-23.09.10:886][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Liam
+[2023.11.03-23.09.10:895][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008966s)
+[2023.11.03-23.09.10:895][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Liam.Liam to /Game/Maps/UEDPIE_0_Liam.Liam (0.009015s)
+[2023.11.03-23.09.10:895][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-23.09.10:895][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-23.09.10:896][769]LogAIModule: Creating AISystem for world Liam
+[2023.11.03-23.09.10:897][769]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2023.11.03-23.09.10:909][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.11.03-23.09.10:911][769]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.03-23.09.10:911][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.03-23.09.10:911][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.03-23.09.10:912][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.03-23.09.10:912][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.03-23.09.10:912][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.03-23.09.10:914][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.03-23.09.11:006][769]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2023.11.03-23.09.11:007][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.03-23.09.11:007][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.03-23.09.11:007][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.03-23.09.11:007][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.03-23.09.11:007][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.03-23.09.11:009][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.03-23.09.11:009][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.03-23.09.11:009][769]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.03-23.09.11:009][769]LogAudio: Display: Audio Device (ID: 2) registered with world 'Liam'.
+[2023.11.03-23.09.11:009][769]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.03-23.09.11:025][769]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.03-23.09.11:031][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Liam.Liam up for play (max tick rate 0) at 2023.11.03-19.09.11
+[2023.11.03-23.09.11:037][769]LogWorld: Bringing up level for play took: 0.011398
+[2023.11.03-23.09.11:039][769]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.11.03-23.09.11:067][769]LogBlueprintUserMessages: [Player_C_2] Player
+[2023.11.03-23.09.11:067][769]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllChildActors_ChildActors' of length 0 in '/Game/ThirdPerson/Blueprints/Spidership.Spidership_C:ExecuteUbergraph_Spidership'!
+[2023.11.03-23.09.11:067][769]LogScript: Warning: Script Msg called by: Spidership_C /Game/Maps/UEDPIE_0_Liam.Liam:PersistentLevel.Player_C_2
+[2023.11.03-23.09.11:067][769]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Spidership_C /Game/Maps/UEDPIE_0_Liam.Liam:PersistentLevel.Player_C_2
+	Function /Game/ThirdPerson/Blueprints/Spidership.Spidership_C:ExecuteUbergraph_Spidership:22C3
+[2023.11.03-23.09.11:068][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Spidership Blueprint:  Spidership
+[2023.11.03-23.09.11:079][769]LogBlueprintUserMessages: [Spidership_C_0] Spidership_C_0
+[2023.11.03-23.09.11:079][769]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllChildActors_ChildActors' of length 0 in '/Game/ThirdPerson/Blueprints/Spidership.Spidership_C:ExecuteUbergraph_Spidership'!
+[2023.11.03-23.09.11:079][769]LogScript: Warning: Script Msg called by: Spidership_C /Game/Maps/UEDPIE_0_Liam.Liam:PersistentLevel.Spidership_C_0
+[2023.11.03-23.09.11:079][769]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Spidership_C /Game/Maps/UEDPIE_0_Liam.Liam:PersistentLevel.Spidership_C_0
+	Function /Game/ThirdPerson/Blueprints/Spidership.Spidership_C:ExecuteUbergraph_Spidership:22C3
+[2023.11.03-23.09.11:079][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Spidership Blueprint:  Spidership
+[2023.11.03-23.09.11:079][769]PIE: Server logged in
+[2023.11.03-23.09.11:080][769]PIE: Play in editor total start time 0.205 seconds.
+[2023.11.03-23.09.11:127][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:127][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:128][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:128][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:129][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:129][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:129][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.11:130][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.09.14:608][ 37]LogNiagara: Compiling System NiagaraSystem /Game/Materials/ShipThrusters/NS_Thruster_Cons_Small.NS_Thruster_Cons_Small took 0.600480 sec (time since issued), 2.407140 sec (combined shader worker time).
+[2023.11.03-23.09.42:176][719]LogDerivedDataCache: D:/Profiles/lga7192/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.070 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 1435 files in 2340 folders with total size 478 MiB.
+[2023.11.03-23.13.07:746][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.03-23.13.07:747][ 40]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Liam
+[2023.11.03-23.13.07:747][ 40]LogWorld: UWorld::CleanupWorld for Liam, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-23.13.07:748][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-23.13.07:753][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.03-23.13.07:756][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-23.13.07:772][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-23.13.07:772][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.03-23.13.07:772][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.03-23.13.07:774][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.03-23.13.07:781][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.03-23.13.07:784][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.03-23.13.07:903][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:904][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:904][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:905][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:906][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:906][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:907][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.07:932][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.11.03-23.13.09:938][240]LogSlate: Window 'Message Log' being destroyed
+[2023.11.03-23.13.09:945][240]LogSlate: Window 'Message Log' being destroyed
+[2023.11.03-23.13.13:602][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.13:603][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.13:603][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.13:603][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.13:604][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.13:604][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.13.13:605][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.14.03:489][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.14.03:490][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.14.03:490][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.14.03:490][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.14.03:491][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.03-23.14.03:491][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
