@@ -5,8 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Profiles/lga7192/Spideroid/Spydroid/Content/Maps/Liam.umap",
 				"C:/Users/liama/Documents/GitHub/meltdown/Spideroid/Spydroid/Content/Maps/Liam.umap",
+				"C:/Users/liama/Documents/GitHub/meltdown/Spideroid/Spydroid/Content/Megascans/3D_Assets/Gigantic_Sandstone_Terrain_wldhdhxva/S_Gigantic_Sandstone_Terrain_wldhdhxva_lod3_Var1.uasset",
+				"D:/Profiles/lga7192/Spideroid/Spydroid/Content/Maps/Liam.umap",
 				"C:/Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Maps/Adhiraj.umap",
 				"C:/Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Materials/PlanetTex.uasset",
 				"C:/Users/adhir/Documents/GitHub/Spideroid/Spydroid/Content/Textures/4k_makemake_fictional.uasset",
